@@ -1,4 +1,5 @@
 EXP-6
+
 date:
 
                               SCHEMATIC ENTRY AND SIMULATION OF CMOS INVERTER, CMOS NAND and CMOS NOR USING CADENCE TOOL
@@ -7,6 +8,7 @@ date:
          To design and simulate the CMOS inverter and observe the DC and transient responses using cadence tool.
 
 APPARATUS REQUIRED: ⦁ Laptop with MobaXterm
+
                      ⦁ Cadence tool
 
 PROCEDURE:
@@ -42,6 +44,7 @@ BUILDING THE INVERTER TEST DESIGN:
 Creating the inverter test cell view:
 
 ⦁ In the CIW or library manager, execute file – new – cell view. ⦁ Setup the newfile as shown below. ⦁ Click ok when done. A blank schematic window for the inverter test design appears. ⦁ Using the components list and properties/ comments in this table build the inverter test schematic. ⦁ Add the above components using create – instance or by pressing I. ⦁ Click the wire (narrow) icon and wire your schematic. ⦁ Click create wire name or press c to name the i/p (vsin) and output wires as in below schematic. ⦁ Click on the check and save icon to save the design.
+
  ![image](https://github.com/kristipatishivani/VLSI-LAB-EXP-6/assets/161432255/eff03178-8051-4662-b279-e0ed6b6808b1)
 
  ANALOG SIMULATION WITH SPECTRA:
