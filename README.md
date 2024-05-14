@@ -2,7 +2,7 @@ EXP-6
 
 date:
 
-                                  SIMULATE AND SYNTHESIS INVERTER USING CADENCE
+                              SIMULATE AND SYNTHESIS INVERTER USING CADENCE
 
     AIM:
          To Simulate and Synthesis Inverter using CADENCE
